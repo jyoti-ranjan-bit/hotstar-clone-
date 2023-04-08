@@ -34,8 +34,9 @@ let movies=[
 const carousel=document.querySelector('.carousel');
 let sliders=[];
 
-   //   Created by Aditya Sahu
-   //   Contact me- aditya23sahu@gmail.com
+         // Created by Jyoti Ranjan Padhi 
+           //Contact me- jrpadhi0302@gmail.com 
+           
   
 
 let slideIndex=0;//track current slide
